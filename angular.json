@@ -88,10 +88,12 @@
             ],
             "styles": [
               "src/styles.css",
-              "assets/b5/css/bootstrap.min.css"
+              "src/assets/b5/css/bootstrap.min.css",
+              "src/assets/fontawesome/css/fontawesome.min.css"
             ],
             "scripts": [
-              "assets/jquery/jquery-3.6.3.slim.min.js"
+              "src/assets/jquery/jquery-3.6.3.slim.min.js",
+              "src/assets/b5/js/bootstrap.min.js"
             ]
           }
         }

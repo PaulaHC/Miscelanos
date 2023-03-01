@@ -87,9 +87,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "assets/b5/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "assets/jquery/jquery-3.6.3.slim.min.js"
+            ]
           }
         }
       }

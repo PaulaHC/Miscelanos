@@ -89,7 +89,9 @@
             "styles": [
               "src/styles.css",
               "src/assets/b5/css/bootstrap.min.css",
-              "src/assets/fontawesome/css/fontawesome.min.css"
+              "src/assets/fontawesome/css/fontawesome.css",
+              "src/assets/fontawesome/css/brands.css",
+              "src/assets/fontawesome/css/solid.css"
             ],
             "scripts": [
               "src/assets/jquery/jquery-3.6.3.slim.min.js",

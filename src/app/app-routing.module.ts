@@ -7,7 +7,7 @@ import { USUARIO_ROUTES } from './components/usuario/usuario.routes';
 const ROUTES: Routes = [
   {path:'home',component:HomeComponent},
   {
-    path:'usuario/:10',
+    path:'usuario/:id',
     component:UsuarioComponent,
     children:USUARIO_ROUTES
   },
